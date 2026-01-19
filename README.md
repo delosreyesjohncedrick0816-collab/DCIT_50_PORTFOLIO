@@ -1,7 +1,7 @@
 # Java Programming Laboratory Activities and Laboratory Exam
 
 ## Overview
-This repository contains **Laboratory Activities 1 to 6** for the Java Programming course.  
+This repository contains **Laboratory Activities 1 to 7** for the Java Programming course.  
 Each activity demonstrates the application of **Object-Oriented Programming (OOP)** concepts and Java fundamentals, progressing from basic class design to advanced topics such as abstraction, encapsulation, and polymorphism.
 
 ---
